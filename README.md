@@ -1,2 +1,2 @@
 # Power-BI_Dashboard
-Dashboard of Spotify 
+Interactive Power BI Dashboard of Spotify where you can find  
